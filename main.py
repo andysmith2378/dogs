@@ -307,21 +307,21 @@ class Coco(Dog):
                 result.add(location)
         return result   # Dogs can't move to spaces next to Coco higher than the one she occupies
 
-class Darcy(Dog):
+class Archie(Dog):
     basePenalty = 0.34
 
     smallDogs = (Coco, Lucy, Pepe, Banjo)
 
     def retreats(self, retreatGraph, listOfAllDogs, barkingDog):
-        if barkingDog.__class__ in Darcy.smallDogs:
-            return {self.loc}  # Darcy doesn't retreat from small dogs
+        if barkingDog.__class__ in Archie.smallDogs:
+            return {self.loc}  # Archie doesn't retreat from small dogs
         return Dog.retreats(self, retreatGraph, listOfAllDogs, barkingDog)
 
 try:
     readstate         = Kennel.reap()
     myDogs, otherDogs = readstate[:3], readstate[3:]
 except (EOFError, FileNotFoundError):
-    myDogs, otherDogs = [Muffin('e1'), Frank('e4'), Darcy('e5')], [Pippa('e2'), Pepe('e3'), Coco('e6')]
+    myDogs, otherDogs = [Muffin('e1'), Frank('e4'), Archie('e5')], [Pippa('e2'), Pepe('e3'), Coco('e6')]
 my1, my2, my3 = myDogs
 ot4, ot5, ot6 = otherDogs
 allD, graph   = (my1, my2, my3, ot4, ot5, ot6,), NameEqualsClassName.getEmptyGraph(nodes, edges)
