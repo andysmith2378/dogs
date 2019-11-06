@@ -195,9 +195,7 @@ class Dog(NameEqualsClassName, RepresentedByName):
         return result
 
 class Kennel(set):
-    logfile   = 'gamelog.txt'
-    statefile = 'currentstate.txt'
-    delim     = ', '
+    logfile, statefile, delim = 'gamelog.txt', 'currentstate.txt', ', '
 
     def __call__(self, other):
         if isinstance(other, set):
@@ -254,8 +252,7 @@ class Pippa(Dog):
 
 class Pepe(Dog):
     basePenalty = 0.29
-
-    basket = 'c5'
+    basket      = 'c5'
 
     def retreats(self, grph, listOfAllDogs, barkingDog):
         for dog in listOfAllDogs:
@@ -309,8 +306,7 @@ class Coco(Dog):
 
 class Archie(Dog):
     basePenalty = 0.34
-
-    smallDogs = (Coco, Lucy, Pepe, Banjo)
+    smallDogs   = (Coco, Lucy, Pepe, Banjo)
 
     def retreats(self, retreatGraph, listOfAllDogs, barkingDog):
         if barkingDog.__class__ in Archie.smallDogs:
@@ -333,7 +329,7 @@ if __name__ == '__main__':
     bestBSc, bestB = Kennel.survey(Dog.assessBark, possibleBarks, cpuCount)
     bestMSc, bestM = Kennel.survey(Dog.assessMove, possibleMoves, cpuCount)
     if bestMSc < bestBSc:
-        Kennel.sow([Kennel.moveAll(mv) for mv in bestM], myDogs, otherDogs)
+        Kennel.sow([Kennel.moveAll(moves) for moves in bestM], myDogs, otherDogs)
     else:
         allD[bestB[0]].loc = allD[bestB[1]].loc
         allD[bestB[1]].loc = bestB[2]

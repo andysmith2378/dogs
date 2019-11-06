@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="board.svg"
+   inkscape:export-filename="C:\Users\Andy\Desktop\board.png"
+   inkscape:export-xdpi="600.01318"
+   inkscape:export-ydpi="600.01318">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-1232.8581"
+     inkscape:cy="800.2764"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-others="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path817"
+       cx="-154.95668"
+       cy="-230.81282"
+       r="31.75"
+       transform="rotate(-74)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <g
+       id="g922"
+       transform="rotate(-90,-264.58337,85.333334)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318"
+       style="stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         inkscape:connector-curvature="0"
+         id="path843"
+         d="m -296.32979,84.858898 31.77879,0.361665 15.43289,27.841617"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path845"
+         d="m -248.09167,58.202402 -16.46431,27.035575"
+         style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path847"
+       cx="-154.95668"
+       cy="-230.81282"
+       r="42.333332"
+       transform="rotate(-74)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -273.33484,115.85336 -2.91715,10.17334"
+       id="path849"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -295.10341,76.581807 -10.17335,-2.91716"
+       id="path851"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -255.83186,54.813239 2.91715,-10.173345"
+       id="path853"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -234.0633,94.084786 10.17335,2.91716"
+       id="path855"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path857"
+       cx="154.95668"
+       cy="230.81282"
+       r="52.916664"
+       transform="rotate(106)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -212.06783,91.836606 -10.50348,-1.2976"
+       id="path898"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -254.41058,137.26294 -2.01402,-10.38995"
+       id="path900"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -310.76721,111.04409 9.20398,-5.10497"
+       id="path902"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -303.24545,49.245586 7.72145,7.195039"
+       id="path904"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -242.12266,37.419959 -4.47443,9.59096"
+       id="path906"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path916"
+       cx="-217.19156"
+       cy="-173.53371"
+       r="63.5"
+       transform="rotate(-56.5)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -326.82253,97.924416 10.37091,-2.110001"
+       id="path932"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -306.67896,37.791632 7.01274,7.926447"
+       id="path934"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -244.52539,25.084418 -3.35815,10.036427"
+       id="path936"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -202.37215,72.604696 -10.37089,2.109969"
+       id="path938"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -222.5262,132.90897 -7.01274,-7.92644"
+       id="path940"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -284.82306,145.52138 3.35815,-10.03645"
+       id="path942"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path953"
+       cx="154.95674"
+       cy="-230.81282"
+       r="74.083336"
+       transform="matrix(-0.27563736,0.9612617,0.9612617,0.27563736,0,0)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -325.07785,42.569339 8.63901,6.113464"
+       id="path983"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -335.75369,105.90336 10.16606,-2.94249"
+       id="path985"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -292.91611,153.78472 4.03785,-9.78278"
+       id="path987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -228.72178,150.15838 -5.13092,-9.25639"
+       id="path989"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -191.53215,97.656446 -10.43601,-1.759731"
+       id="path991"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -209.44305,35.857196 -7.88257,7.06203"
+       id="path993"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -268.90466,11.376107 0.55689,10.638306"
+       id="path995"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <g
+       id="g987">
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1040"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1054"
+           startOffset="50%"
+           xlink:href="#path817"><tspan
+   dy="-3.9288626"
+   dx="148.92221"
+   id="tspan1038"
+   style="font-size:4.23333311px;stroke-width:0.26458332">B1</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1044"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1057"
+           startOffset="50%"
+           xlink:href="#path817"><tspan
+   dy="-4.1159511"
+   dx="-76.70623"
+   id="tspan1042"
+   style="stroke-width:0.26458332">B2</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1048"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1063"
+           startOffset="50%"
+           xlink:href="#path817"><tspan
+   dy="-4.1159511"
+   dx="-28.063314"
+   id="tspan1046"
+   style="stroke-width:0.26458332">B3</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1052"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1066"
+           startOffset="50%"
+           xlink:href="#path817"><tspan
+   dy="-4.1159511"
+   dx="49.391369"
+   id="tspan1050"
+   style="stroke-width:0.26458332">B4</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text875"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath893"
+           startOffset="50%"
+           xlink:href="#path847"><tspan
+   dx="226.74864"
+   dy="-3.4395833"
+   id="tspan873"
+   style="stroke-width:0.26458332">C1</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath896"
+           startOffset="50%"
+           xlink:href="#path847"><tspan
+   dx="-101.07038"
+   dy="-3.4395833"
+   id="tspan877"
+   style="stroke-width:0.26458332">C2</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath899"
+           startOffset="50%"
+           xlink:href="#path847"><tspan
+   dx="-50.27087"
+   dy="-3.4395833"
+   id="tspan881"
+   style="stroke-width:0.26458332">C3</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text887"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath902"
+           startOffset="50%"
+           xlink:href="#path847"><tspan
+   dx="15.61042"
+   dy="-3.175"
+   id="tspan885"
+   style="stroke-width:0.26458332">C4</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath905"
+           startOffset="50%"
+           xlink:href="#path847"><tspan
+   dx="120.12014"
+   dy="-2.9104166"
+   id="tspan889"
+   style="stroke-width:0.26458332">C5</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text910"
+         y="72.205429"
+         x="-264.6123"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="72.205429"
+           x="-264.6123"
+           id="tspan908"
+           sodipodi:role="line">A1</tspan></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         transform="rotate(120)"
+         id="text914"
+         y="173.76819"
+         x="205.72018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="173.76819"
+           x="205.72018"
+           id="tspan912"
+           sodipodi:role="line">A2</tspan></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         transform="rotate(-120)"
+         id="text918"
+         y="-284.00851"
+         x="57.696335"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="-284.00851"
+           x="57.696335"
+           id="tspan916"
+           sodipodi:role="line">A3</tspan></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text947"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath969"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dx="-27.516682"
+   dy="-3.175"
+   id="tspan945"
+   style="stroke-width:0.26458332">D1</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath972"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dy="-3.175"
+   dx="61.647964"
+   id="tspan949"
+   style="stroke-width:0.26458332">D2</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath975"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dy="-2.9104166"
+   dx="172.50822"
+   id="tspan953"
+   style="stroke-width:0.26458332">D3</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath978"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dy="-2.9104166"
+   dx="278.60779"
+   id="tspan957"
+   style="stroke-width:0.26458332">D4</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text963"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath981"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dx="-139.96397 6.7983814e-009"
+   dy="-3.175"
+   id="tspan961"
+   style="stroke-width:0.26458332">D5</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text967"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath987"
+           startOffset="50%"
+           xlink:href="#path857"><tspan
+   dy="-3.175"
+   dx="-83.343536"
+   id="tspan965"
+   style="stroke-width:0.26458332">D6</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1018"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="374.38837"
+   dy="-3.175"
+   id="tspan990"
+   style="stroke-width:0.26458332">E1</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1021"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="-157.16217"
+   dy="-2.9104166"
+   id="tspan994"
+   style="stroke-width:0.26458332">E2</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1000"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1024"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dy="-2.9104166"
+   dx="-100.54122"
+   id="tspan998"
+   style="stroke-width:0.26458332">E3</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1004"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1027"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="-43.656277"
+   dy="-2.9104166"
+   id="tspan1002"
+   style="stroke-width:0.26458332">E4</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1008"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1030"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="32.54377"
+   dy="-2.9104166"
+   id="tspan1006"
+   style="stroke-width:0.26458332">E5</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1012"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1033"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="144.99113"
+   dy="-2.9104166"
+   id="tspan1010"
+   style="stroke-width:0.26458332">E6</tspan></textPath></text>
+      <text
+         inkscape:export-ydpi="600.01318"
+         inkscape:export-xdpi="600.01318"
+         inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+         id="text1016"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><textPath
+           id="textPath1036"
+           startOffset="50%"
+           xlink:href="#path916"><tspan
+   dx="262.46793"
+   dy="-2.9104166"
+   id="tspan1014"
+   style="stroke-width:0.26458332">E7</tspan></textPath></text>
+    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path817-9"
+       cx="-154.95668"
+       cy="-230.81282"
+       r="31.75"
+       transform="rotate(-74)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <g
+       id="g922-2"
+       transform="rotate(-90,-264.58337,85.333338)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318">
+      <path
+         inkscape:connector-curvature="0"
+         id="path843-1"
+         d="m -296.32979,84.858898 31.77879,0.361665 15.43289,27.841617"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path845-1"
+         d="m -248.09167,58.202402 -16.46431,27.035575"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+    </g>
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path847-5"
+       cx="-154.95668"
+       cy="-230.81282"
+       r="42.333332"
+       transform="rotate(-74)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -273.33485,115.85337 -2.91715,10.17334"
+       id="path849-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -295.10342,76.581813 -10.17335,-2.917158"
+       id="path851-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M -255.83187,54.813246 -252.91472,44.6399"
+       id="path853-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -234.06331,94.084794 10.17335,2.917158"
+       id="path855-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path857-3"
+       cx="154.95668"
+       cy="230.81282"
+       r="52.916664"
+       transform="rotate(106)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -212.06784,91.836614 -10.50348,-1.297602"
+       id="path898-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M -254.41059,137.26295 -256.42461,126.873"
+       id="path900-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -310.76722,111.0441 9.20398,-5.10497"
+       id="path902-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -303.24546,49.245592 7.72145,7.19504"
+       id="path904-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -242.12267,37.419966 -4.47443,9.590961"
+       id="path906-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path916-0"
+       cx="-217.19156"
+       cy="-173.53371"
+       r="63.5"
+       transform="rotate(-56.5)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -326.82254,97.924422 10.37091,-2.109999"
+       id="path932-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -306.67897,37.791639 7.01274,7.926446"
+       id="path934-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -244.5254,25.084424 -3.35815,10.036427"
+       id="path936-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -202.37216,72.604702 -10.37089,2.10997"
+       id="path938-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -222.52621,132.90898 -7.01274,-7.92644"
+       id="path940-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -284.82307,145.52139 3.35815,-10.03645"
+       id="path942-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <circle
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path953-1"
+       cx="154.95676"
+       cy="-230.81282"
+       r="74.083336"
+       transform="matrix(-0.27563736,0.9612617,0.9612617,0.27563736,0,0)"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -325.07786,42.569345 8.63901,6.113465"
+       id="path983-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -335.7537,105.90337 10.16606,-2.94249"
+       id="path985-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -292.91612,153.78473 4.03785,-9.78278"
+       id="path987-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -228.72179,150.15839 -5.13092,-9.25639"
+       id="path989-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -191.53216,97.656452 -10.43601,-1.75973"
+       id="path991-9"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -209.44306,35.857202 -7.88257,7.062031"
+       id="path993-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m -268.90467,11.376113 0.55689,10.638306"
+       id="path995-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Andy\a2_black_and_white_01.png"
+       inkscape:export-xdpi="600.01318"
+       inkscape:export-ydpi="600.01318" />
+  </g>
+</svg>
