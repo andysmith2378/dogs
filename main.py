@@ -318,9 +318,7 @@ try:
     myDogs, otherDogs = readstate[:3], readstate[3:]
 except (EOFError, FileNotFoundError):
     myDogs, otherDogs = [Muffin('e1'), Frank('e4'), Archie('e5')], [Pippa('e2'), Pepe('e3'), Coco('e6')]
-my1, my2, my3 = myDogs
-ot4, ot5, ot6 = otherDogs
-allD, graph   = (my1, my2, my3, ot4, ot5, ot6,), NameEqualsClassName.getEmptyGraph(nodes, edges)
+allD, graph   = myDogs + otherDogs, NameEqualsClassName.getEmptyGraph(nodes, edges)
 possibleBarks = Dog.getBarkOptions(allD, graph)
 possibleMoves = Dog.getMoves(allD)
 
