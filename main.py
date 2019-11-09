@@ -7,6 +7,7 @@ class Dog(NameEqualsClassName, RepresentedByName):
     __call__    = lambda x, y, z: set([loc for loc in y[x.loc].keys() if loc < x.loc]).difference(x.getBlockers(z, y))
     filterMoves = lambda x, y, z: y
     block       = lambda x, y, z: x.loc
+    follow      = lambda x, y, z: z.loc
     setEdgeW    = lambda x, y, z: [z.edges[l, r].__setitem__(Dog.wKey, Dog.bW) for l, r in Dog.getES(x.block(z, y), z)]
     retreats    = lambda w, x, y, z: z.retreatFrom(x, y, w)
     retreatFrom = lambda w, x, y, z: set(x[z.loc].keys()).difference(z.getBlockers(y, x))
@@ -87,7 +88,7 @@ class Dog(NameEqualsClassName, RepresentedByName):
         leftInd, rightInd, retreat = bark
         left, right                = allD[leftInd], allD[rightInd]
         originalL, originalR       = left.loc, right.loc
-        left.loc                   = right.loc
+        left.loc                   = left.follow(allD, right)
         right.loc                  = retreat
         score, left.loc, right.loc = Dog.getScore(allD, myDogs, otherDogs, nodes, edges), originalL, originalR
         return score, (leftInd, rightInd, retreat)
@@ -273,20 +274,20 @@ class Muffin(Dog):
     def myG(self, graph, listOfAllDogs, nodeSet, edgeSet):
         return NameEqualsClassName.adjustWeight(copy.deepcopy(graph), 1, 2)
 
-class Lucy(Dog):
+class Annette(Dog):
     basePenalty = 0.28
 
     def __call__(self, grph, listOfAllDogs):
         return set(grph[self.loc].keys()).difference(self.getBlockers(listOfAllDogs, grph))
 
-class Chico(Dog):
-    basePenalty = 0.33
+class Emma(Dog):
+    basePenalty = 0.34
 
     def addDogsICanBarkAt(self, t, oI, bG, mI):
         [t.append((mI, i), ) for i, r in enumerate(oI) if self is not r and self.loc in bG[r.loc] and self.loc > r.loc]
 
-class Banjo(Dog):
-    basePenalty = 0.32
+class Millie(Dog):
+    basePenalty = 0.33
 
     def retreatFrom(self, retreatGraph, listOfAllDogs, target):
         for dog in listOfAllDogs:
@@ -295,7 +296,7 @@ class Banjo(Dog):
         return {Pepe.basket}
 
 class Coco(Dog):
-    basePenalty = 0.31
+    basePenalty = 0.32
 
     def block(self, blockGraph, listOfAllDogs):
         result = {self.loc}
@@ -305,13 +306,26 @@ class Coco(Dog):
         return result   # Dogs can't move to spaces next to Coco higher than the one she occupies
 
 class Archie(Dog):
-    basePenalty = 0.34
-    smallDogs   = (Coco, Lucy, Pepe, Banjo)
+    basePenalty = 0.35
+    smallDogs   = (Coco, Annette, Pepe, Millie)
 
     def retreats(self, retreatGraph, listOfAllDogs, barkingDog):
         if barkingDog.__class__ in Archie.smallDogs:
             return {self.loc}  # Archie doesn't retreat from small dogs
         return Dog.retreats(self, retreatGraph, listOfAllDogs, barkingDog)
+
+class Chico(Dog):
+    basePenalty = 0.31
+    bed         = 'c1'
+
+    def follow(self, listOfAllDogs, barkedAtDog):
+        for dog in listOfAllDogs:
+            if dog.loc == self.__class__.bed:
+                return barkedAtDog.loc
+        return self.__class__.bed
+
+class Banjo(Dog):
+    bed = 'c2'
 
 try:
     readstate         = Kennel.reap()
