@@ -16,8 +16,8 @@
    version="1.1"
    id="svg950"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="cards02.svg"
-   inkscape:export-filename="C:\Users\Andy\Desktop\fortress\cards02.png"
+   sodipodi:docname="dogcards02.svg"
+   inkscape:export-filename="C:\Users\Andy\PycharmProjects\fortress\game_components\cards\dogcards\dogcards02.png"
    inkscape:export-xdpi="599.75897"
    inkscape:export-ydpi="599.75897">
   <defs
@@ -29,9 +29,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8096814"
+     inkscape:zoom="0.45242035"
      inkscape:cx="334.4402"
-     inkscape:cy="823.85729"
+     inkscape:cy="735.44394"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,6 +56,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ad1902;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect980"
+       width="211.70393"
+       height="296.50247"
+       x="0.58481747"
+       y="0.49753308" />
     <rect
        style="opacity:1;fill:#fcf7e7;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke"
        id="rect1136-6-8"

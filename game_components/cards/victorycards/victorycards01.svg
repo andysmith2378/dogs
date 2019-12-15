@@ -16,7 +16,7 @@
    id="svg1124"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="victorycards01.svg"
-   inkscape:export-filename="C:\Users\Andy\Desktop\victorycards01.png"
+   inkscape:export-filename="C:\Users\Andy\PycharmProjects\fortress\game_components\cards\victorycards\victorycards01.png"
    inkscape:export-xdpi="599.75916"
    inkscape:export-ydpi="599.75916">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="-118.9514"
-     inkscape:cy="574.37968"
+     inkscape:zoom="0.5"
+     inkscape:cx="189.95085"
+     inkscape:cy="549.87055"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -65,6 +65,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:1;fill:#ad1902;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect862"
+       width="211.41019"
+       height="300.46442"
+       x="0"
+       y="-0.47098449" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot918"
